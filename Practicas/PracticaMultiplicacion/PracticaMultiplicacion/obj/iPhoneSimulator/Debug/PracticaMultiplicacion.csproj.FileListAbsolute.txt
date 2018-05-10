@@ -1,9 +1,0 @@
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/bin/iPhoneSimulator/Debug/PracticaMultiplicacion.exe
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/bin/iPhoneSimulator/Debug/PracticaMultiplicacion.pdb
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/PracticaMultiplicacion.csproj.CoreCompileInputs.cache
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/PracticaMultiplicacion.exe
-/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicacion/PracticaMultiplicacion/obj/iPhoneSimulator/Debug/PracticaMultiplicacion.pdb
