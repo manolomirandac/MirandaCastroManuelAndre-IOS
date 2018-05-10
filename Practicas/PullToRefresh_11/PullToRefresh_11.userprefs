@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{CA48B60A-E1EA-4F9E-B34A-5749DA98CB78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PullToRefresh_11/Controllers/CitiesTableViewController.cs">
+    <Files>
+      <File FileName="PullToRefresh_11/Controllers/CitiesTableViewController.cs" Line="116" Column="63" />
+      <File FileName="PullToRefresh_11/Models/CitiesManager.cs" Line="75" Column="54" />
+      <File FileName="../PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.designer.cs" Line="35" Column="1" />
+      <File FileName="../PhotoPicker09/PhotoPicker09/ViewController.cs" Line="45" Column="13" />
+      <File FileName="../PhotoPicker09/PhotoPicker09/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="../PracticaMultiplicaciones/PracticaMultiplicaciones/Main.cs" Line="12" Column="1" />
+      <File FileName="PullToRefresh_11/ViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.cs" line="122" column="1" />
+      <Breakpoint file="/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.cs" line="128" column="1" />
+      <Breakpoint file="/Users/ISSC611/Desktop/ManoloMiranda/Parcial2/PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PullToRefresh__11 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D7E0DFCA-2EC9-4725-B28F-8F67FBA1744C" />
+  <MultiItemStartupConfigurations />
+</Properties>

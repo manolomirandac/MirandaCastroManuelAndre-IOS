@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D861F437-4914-48CE-8F83-E7AC9668B549}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomCells13/TableViewController.cs">
+    <Files>
+      <File FileName="CustomCells13/TableViewController.cs" Line="97" Column="17" />
+      <File FileName="CustomCells13/ViewController.cs" Line="9" Column="9" />
+      <File FileName="CustomCells13/linq2twitter.cs" Line="51" Column="45" />
+      <File FileName="CustomCells13/Objects/objTweet.cs" Line="2" Column="1" />
+      <File FileName="CustomCells13/Main.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ex</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/akarok/Projects/ExamenParcial2/ExamenParcial2/TwitterViiewModel.cs" line="49" column="1" />
+      <Breakpoint file="/Users/akarok/Projects/ExamenParcial2/ExamenParcial2/TwitterViiewModel.cs" line="48" column="1" />
+      <Breakpoint file="/Users/akarok/Downloads/CustomCells13/CustomCells13/TableViewController.cs" relfile="CustomCells13/TableViewController.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomCells13 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6AF54683-B76A-4F86-BF9E-84676AE60518">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CustomCells13>
+</Properties>

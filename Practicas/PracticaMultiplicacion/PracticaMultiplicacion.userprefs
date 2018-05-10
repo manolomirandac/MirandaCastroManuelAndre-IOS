@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{96221C29-EC43-4EA8-ADC7-0418E4A5EA43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.cs">
+    <Files>
+      <File FileName="PracticaMultiplicacion/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="../PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.designer.cs" Line="19" Column="27" />
+      <File FileName="../PracticaMultiplicaciones/PracticaMultiplicaciones/ViewController.cs" Line="8" Column="105" />
+      <File FileName="PracticaMultiplicacion/ViewController.cs" Line="28" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PracticaMultiplicacion PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5CE511D6-1562-4498-8D15-BCCFA2B7F822">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PracticaMultiplicacion>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
